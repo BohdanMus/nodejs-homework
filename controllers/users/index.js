@@ -1,4 +1,4 @@
-const updateAvatar = require("../users/updateAvatar");
+const updateAvatar = require("./updateAvatar");
 const { ctrlWrapper } = require("../../utils");
 
 module.exports = {
